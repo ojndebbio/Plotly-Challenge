@@ -31,4 +31,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![](images/https://github.com/ojndebbio/Plotly-Challenge/blob/master/Instructions/StarterCode/Belly%20Button%20Plots.PNG)
+![](images/images/Belly%20Button%20Plots.PNG)
