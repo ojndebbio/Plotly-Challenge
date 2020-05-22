@@ -31,4 +31,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![](images/images/Belly%20Button%20Plots.PNG)
+![Belly Button Plots](https://user-images.githubusercontent.com/60052162/82634604-b5d84900-9bc3-11ea-8837-8e4040a425e5.PNG)
